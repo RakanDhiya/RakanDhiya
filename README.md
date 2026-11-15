@@ -35,20 +35,11 @@ I'm an Informatics Engineering student passionate about technology and software 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./generated/stats.svg" height="180" alt="GitHub Stats" />
   <img src="./generated/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RakanDhiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 👁️ Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RakanDhiya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
