@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Rakan Dhiya 👋</h1>
 <h3 align="center">Informatics Engineering Student</h3>
 
@@ -30,12 +29,14 @@ I'm an Informatics Engineering student passionate about technology and software 
   <img src="https://skillicons.dev/icons?i=python,php,laravel,js,html,css,postgres,git,github,vscode" />
 </p>
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RakanDhiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakanDhiya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./generated/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./generated/top-langs.svg" height="180" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RakanDhiya&theme=tokyonight&hide_border=true" />
@@ -45,8 +46,4 @@ I'm an Informatics Engineering student passionate about technology and software 
 
 <p align="center">
   Thanks for visiting my profile! ⭐
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RakanDhiya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
