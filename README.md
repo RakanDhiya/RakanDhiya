@@ -1,4 +1,4 @@
-# Hi, I'm Rakan Dhiya 👋
+<h1 align="center">Hi, I'm Rakan Dhiya 👋</h1>
 
 <h3 align="center">Informatics Engineering Student</h3>
 
